@@ -4,7 +4,6 @@ from colorama import Fore, Back, just_fix_windows_console, Style
 
 os.system("title Delete Temp and Trash archives")
 
-print(Fore.LIGHTMAGENTA_EX + Style.BRIGHT + "I like Mexico XD")
 print(Fore.CYAN + Style.BRIGHT)
 os.system("rd %temp% /s /q")
 os.system("rd temp /s /q")
