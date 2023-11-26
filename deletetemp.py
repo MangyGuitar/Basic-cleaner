@@ -1,5 +1,4 @@
 import os
-from colorama import Fore, Back, just_fix_windows_console, Style
 
 
 os.system("title Delete Temp and Trash archives")
