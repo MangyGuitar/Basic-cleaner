@@ -14,3 +14,8 @@ Visual Studio Code ------------------------------------------------------------ 
 Windows (Only Tested) ------------------------------------------------------------ ██████████████████████████████████████████████   100.0%
 MacOs (NO TESTED)
 LINUX (NO TESTED)
+
+
+## :man_astronaut: Show your support
+
+Give a ⭐️ if this project helped you!
