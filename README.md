@@ -2,7 +2,6 @@
 
 I created this project because every few weeks I had to clean the %temp%, temp... And I created this Python project!
 
-# 📊 Programming languages used in this code
 
 ## 💬 Languages: 
 Python   -   -   -    -   -  -  ██████████████████████████████████   100% 
