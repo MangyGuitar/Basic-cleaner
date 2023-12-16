@@ -23,7 +23,8 @@ LINUX (NO TESTED)
 1. Install Python: Go to this page and install python: https://www.python.org/downloads/
 
 2. Use the command (in cmd):
-``` pip install -r requirements.txt```
+```pip install -r requirements.txt```
+3. Open the project and ENJOY!
 
 ## :man_astronaut: Show your support
 
