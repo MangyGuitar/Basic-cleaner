@@ -18,7 +18,7 @@ MacOs (NO TESTED)
 
 LINUX (NO TESTED)
 
-![image](https://github.com/MangyGuitar/Basic-cleaner/assets/114024328/77483ad9-fee5-4e0a-8c49-599b1229037f)
+## ![image](https://github.com/MangyGuitar/Basic-cleaner/assets/114024328/77483ad9-fee5-4e0a-8c49-599b1229037f)
 
 1. Install Python: Go to this page and install python: https://www.python.org/downloads/
 
