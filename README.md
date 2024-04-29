@@ -4,7 +4,7 @@ I created this project because every few weeks I had to clean the %temp%, temp..
 
 
 ## 💬 Languages:
-Python ███████████████████   90%
+Python ███████████████████   80%
 
 Json   ███    10%
 
